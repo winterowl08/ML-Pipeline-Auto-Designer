@@ -22,7 +22,7 @@ const CodeBlock: React.FC<Props> = ({ code, language = 'python' }) => {
           <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
           <div className="w-3 h-3 rounded-full bg-green-500"></div>
         </div>
-        <div className="text-xs text-slate-400 font-mono">ml_autodesigner.py</div>
+        <div className="text-xs text-slate-400 font-mono">pipeline_pilot.py</div>
         <button
           onClick={handleCopy}
           className="text-xs text-slate-400 hover:text-white transition-colors flex items-center gap-1"
