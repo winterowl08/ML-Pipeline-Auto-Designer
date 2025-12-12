@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import { DatasetInfo, MLAnalysisResult, JSONSummary } from "../types";
 
 const SYSTEM_INSTRUCTION = `
-You are "PipelinePilot AI", an expert Machine Learning engineer and code generator.
+You are "ML Pipeline Auto-Designer", an expert Machine Learning engineer and code generator.
 
 Your goals:
 1. Read the uploaded dataset.

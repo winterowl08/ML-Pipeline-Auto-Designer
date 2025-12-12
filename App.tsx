@@ -130,7 +130,7 @@ const App: React.FC = () => {
               <i className="fas fa-network-wired text-white text-lg"></i>
             </div>
             <h1 className="text-xl font-bold text-white tracking-tight">
-              PipelinePilot <span className="text-cyan-400">AI</span>
+              ML Pipeline <span className="text-cyan-400">Auto-Designer</span>
             </h1>
           </div>
           <div className="flex items-center space-x-4">

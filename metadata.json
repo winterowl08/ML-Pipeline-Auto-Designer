@@ -1,5 +1,5 @@
 {
-  "name": "PipelinePilot AI",
+  "name": "ML Pipeline Auto-Designer",
   "description": "An AI-powered tool that analyzes your dataset samples and automatically designs a complete Machine Learning pipeline, including preprocessing, model selection, and Python code generation.",
   "requestFramePermissions": []
 }

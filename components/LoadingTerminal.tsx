@@ -22,7 +22,7 @@ const LoadingTerminal: React.FC = () => {
   }, []);
 
   return (
-    <div className="bg-[#0f172a] rounded-xl border border-slate-700 p-6 shadow-2xl max-w-2xl mx-auto my-12 font-mono">
+    <div className="bg-[#1C1C1C] rounded-xl border border-slate-700 p-6 shadow-2xl max-w-2xl mx-auto my-12 font-mono">
       <div className="flex space-x-2 mb-4">
         <div className="w-3 h-3 rounded-full bg-red-500"></div>
         <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
